@@ -17,6 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 install.packages("summarytools")
 library(summarytools)
+install.packages("stargazer")
 library(stargazer)
 library(broom)
 ```
